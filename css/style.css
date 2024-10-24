@@ -1,0 +1,118 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(217, 141, 141);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 250px;
+}
+
+.violetSorrengail {
+    transition: transform 0.5s ease;
+}
+
+.violetSorrengail:hover {
+    transform: scale(1.1);
+}
+
+.xadenRiorson {
+    transition: transform 0.5s ease;
+}
+
+.xadenRiorson:hover {
+    transform: scale(1.1);
+}
+
+.liamMairi {
+    transition: transform 0.5s ease;
+}
+
+.liamMairi:hover {
+    transform: scale(1.1);
+}
+
+.tairN {
+    transition: transform 0.5s ease;
+}
+
+.tairN:hover {
+    transform: scale(1.1);
+}
+
+.andarnA {
+    transition: transform 0.5s ease;
+}
+
+.andarnA:hover {
+    transform: scale(1.1);
+}
+
+.rhiannonMatthias {
+    transition: transform 0.5s ease;
+}
+
+.rhiannonMatthias:hover {
+    transform: scale(1.1);
+}
+
+.dainAetos {
+    transition: transform 0.5s ease;
+}
+
+.dainAetos:hover {
+    transform: scale(1.1);
+}
+
+.sawyeR {
+    transition: transform 0.5s ease;
+}
+
+.sawyeR:hover {
+    transform: scale(1.1);
+}
+
+.ridoC {
+    transition: transform 0.5s ease;
+}
+
+.ridoC:hover {
+    transform: scale(1.1);
+}
+
+.imogeN {
+    transition: transform 0.5s ease;
+}
+
+.imogeN:hover {
+    transform: scale(1.1);
+}
+
+.bodhI {
+    transition: transform 0.5s ease;
+}
+
+.bodhI:hover {
+    transform: scale(1.1);
+}
+
+.garrickTravis {
+    transition: transform 0.5s ease;
+}
+
+.garrickTravis:hover {
+    transform: scale(1.1);
+}
+
+section {
+    margin: 1rem;
+    border: 1px solid black;
+    background-color: rgb(254, 242, 242);
+    text-align: center;
+}
